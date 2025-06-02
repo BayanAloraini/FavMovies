@@ -1,0 +1,41 @@
+body { 
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: normal;} 
+img { 
+    height: 500px ;
+    width: 320px;
+    object-fit: cover;
+}
+p{
+    margin: 0;
+    text-align: left;
+}
+.movie{ 
+    height: 550px;
+    width: 650px;
+    margin-bottom: 30px;
+}
+#title { 
+    font-size: xx-large;
+}
+#WL { 
+    float: left;
+    margin-right: 20px;
+}
+#GWH { 
+    float: right;
+    margin-left: 20px;
+}
+#SN { 
+    float: left;
+    margin-right: 20px;
+}
+#TS { 
+    float: right;
+    margin-left: 20px;
+}
+span { 
+    color: red;
+}
